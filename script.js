@@ -32,13 +32,13 @@ let projetos = [
 {
     titulo: "Agente de Combate às Endemias",
     descricao: "Atuação no ensino de Física com foco em aprendizagem prática, resolução de problemas e desenvolvimento do pensamento crítico dos estudantes.",
-    imagem: "fotoagente.jpeg",
+    imagem: "img/fotoagente.jpg",
     link: "https://github.com/antonyomarques2012-ops"
 },
 {
     titulo: "Professor de Física",
     descricao: "Atuação direta no controle e prevenção de doenças endêmicas, visitas domiciliares, orientações à população e suporte em campanhas de saúde pública.",
-    imagem: "professoraula.png",
+    imagem: "img/professoraula.png",
     link: "https://github.com/antonyomarques2012-ops"
 },
 
